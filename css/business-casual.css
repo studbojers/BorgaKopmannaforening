@@ -105,6 +105,10 @@ hr {
     margin: 0 auto 0;
 }
 
+.active-navlink {
+    background-color: lightgray;
+}
+
 footer {
     display: none; /* added by Seba to hide the footer*/
     background: #fff;
@@ -179,7 +183,7 @@ footer p {
     }
 
     .nav>li>a {
-        padding: 35px;
+        padding: 25px;
     }
 
     .navbar-nav>li>a {
@@ -193,6 +197,7 @@ footer p {
         table-layout: fixed;
         font-size: 1.25em;
     }
+    
 }
 
 @media screen and (min-width:1200px) {
