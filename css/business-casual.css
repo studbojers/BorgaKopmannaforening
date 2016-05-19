@@ -209,11 +209,10 @@ footer p {
 }
 
 @media screen and (max-width:767px) {
+    
+    /* possibility to hide the back to top link */
     /*
-    .img-responsive {
-        height: 0px;
-        margin: 0px;
-        padding: 0px;
+    .navigate-back-to-top {
         visibility: hidden;
     }
     */
