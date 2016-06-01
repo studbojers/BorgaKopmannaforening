@@ -1,0 +1,4 @@
+AuthName "Borgå Svenska Köpmannaföreningens dokumenter"
+        AuthType Basic
+        AuthUserFile ../.htpasswd
+        Require valid-user 
