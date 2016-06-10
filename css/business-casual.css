@@ -14,6 +14,20 @@ body {
     
 }
 
+abbr {
+    border-bottom: none !important;
+}
+
+.answer {
+    margin: 0;
+    padding: 0;
+    margin-left: 10px;
+}
+
+.qmark {
+    font-size: 1.5em;
+}
+
 h1,
 h2,
 h3,
