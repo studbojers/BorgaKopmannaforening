@@ -134,11 +134,16 @@ footer p {
     padding: 50px 0;
 }
 
+#logoimage {
+    max-width: 768px;
+    max-height: 100%;
+}
+
 @media screen and (min-width:768px) {
     .brand {
         display: inherit;
         margin: 0;
-        padding: 30px 0 10px;
+        padding: 10px 0 10px;
         text-align: center;
         text-shadow: 1px 1px 2px rgba(0,0,0,0.5);
         font-family: "Copperplate Gothic","Helvetica Neue",Helvetica,Arial,sans-serif;

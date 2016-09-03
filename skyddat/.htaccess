@@ -1,4 +1,0 @@
-AuthName "Borgå Svenska Köpmannaföreningens dokumenter"
-        AuthType Basic
-        AuthUserFile /oppilas19/303FA148-F620-4761-9DEF-B91A293EA0C8/rc1/.htpasswd
-        Require valid-user 

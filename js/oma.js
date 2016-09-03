@@ -9,7 +9,8 @@ function writeYears() {
 function getBannerAndMenu() {
     
     var banner = "";
-    banner += '<div class="brand">Borgå Svenska KöpmannaFörening rf</div>';
+    //banner += '<div class="brand">Borgå Svenska KöpmannaFörening rf</div>';
+    banner += '<div class="brand"><img id="logoimage" src="img/bskf-logo-transpbg-gimp.png"></img> </div>';
     //banner += '<!--<div class="address-bar"><script>writeYears();</script></div>-->';
     //banner += '<div class="address-bar">borgakopmannaforening @ gmail.com</div>';
 
